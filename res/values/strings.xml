@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopXPhoneNumbers</string>
+    <string name="str_etEntrarTelefoneFavorito">ex º 911234567</string>
+    <string name="str_btnEntrarTelefoneFavorito">Adicionar</string>
+</resources>
